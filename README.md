@@ -11,6 +11,6 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/owenouyang/)
   - :dart: [Projects](https://couyang24.github.io/)
 
-- ✨ my motto
+- ✨ my motto:
 
 ![loading](https://i.imgur.com/PoGu7Sh.gif)
