@@ -13,4 +13,4 @@
 
 - ✨ my motto:
 
-![loading](https://i.imgur.com/PoGu7Sh.gif)
+![loading](https://i.imgur.com/BjBJv1Q.gif)
