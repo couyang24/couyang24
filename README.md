@@ -7,7 +7,7 @@ class COuyang24:
     self.username: str = "couyang24"
     self.full_name: str = "Chengran (Owen) Ouyang"
     self.languages: List[str] = ["Mandarin", "English", "Python", "SQL"]
-    self.company: str = "Brex"
+    self.company: str = "Lyft"
     self.job: str = "Data Scientist"
     self.motto: str = "The opposit of success is not failure. It is ........ you never try"
     self.connect: Dict[str, str] = {
