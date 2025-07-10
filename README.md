@@ -9,7 +9,7 @@ class COuyang24:
     self.languages: List[str] = ["Mandarin", "English", "Python", "SQL"]
     self.company: str = "Lyft"
     self.job: str = "Data Scientist"
-    self.motto: str = "The opposit of success is not failure. It is ........ you never try"
+    self.motto: str = "The opposit of success is not failure. It is ........ you never try!"
     self.connect: Dict[str, str] = {
                           "Kaggle": "https://www.kaggle.com/couyang", 
                           "LinkedIn": "https://www.linkedin.com/in/owenouyang/",
